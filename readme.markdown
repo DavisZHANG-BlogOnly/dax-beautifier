@@ -6,9 +6,9 @@ The program directly interacts with Analysis Services. Based on the test of the 
 
 ### Download and Install
 
-Download：The current version (v1.0.0 beta) and subsequent versions will be released to this Github repositories(or [click here](https://github.com/DavisZHANG-BlogOnly/dax-beautifier).
+Download. The current version (v1.0.0 beta) and subsequent versions will be released to this Github repositories(or [click here](https://github.com/DavisZHANG-BlogOnly/dax-beautifier).
 
-Install：Just run the .exe, as follow:
+Install. Just run the .exe, as follow:
 
 ![Install](https://img-blog.csdnimg.cn/20200803110303755.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_RC1CSSB8IERhdmlzIG9uIEJJ,size_16,color_FFFFFF,t_70)
 
