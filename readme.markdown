@@ -38,12 +38,19 @@ The use of this tool can refer to the following video (It's very simple)：
 
 <iframe width="560px" height="315px" allow="autoplay" src="https://youtu.be/JgLyNkpEeRo" name="iframeId" id="iframeId" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 
+### Limitations
+
+Limited by the compatibility level of the calculation table, DAX formatting is temporarily unavailable for calculated columns in calculated tables.
 
 ### Q&A
 
-Question：Why does the DAX in my PBI report have not changed after I use DAX Beautifier, and I have met all the prerequisites?
+Question: The program throw an exception:" Please install AMO library and make sure the path is correct."
 
-Answer：In some cases, the formatted results returned by DAX Beautifier will not be reflected in Power BI Desktop immediately, but at this time the internal formatting of the model has been completed, you can save the report and restart the PBID to check. If the problem persists, please refresh the dataset and try again. In addition, if your formula itself has a grammatical error, it will retain the original format without being beautified.
+Answer: You need to install AMO library from [here](https://docs.microsoft.com/en-us/analysis-services/client-libraries?view=asallproducts-allversions) and make sure the path is "C:\Windows\Microsoft.NET\assembly\GAC_MSIL".
+
+Question: Why does the DAX in my PBI report have not changed after I use DAX Beautifier, and I have met all the prerequisites?
+
+Answer: In some cases, the formatted results returned by DAX Beautifier will not be reflected in Power BI Desktop immediately, but at this time the internal formatting of the model has been completed, you can save the report and restart the PBID to check. If the problem persists, please refresh the dataset and try again. In addition, if your formula itself has a grammatical error, it will retain the original format without being beautified.
 
 ### Acknowledgment
 
