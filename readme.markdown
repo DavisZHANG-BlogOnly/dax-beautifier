@@ -46,11 +46,11 @@ Limited by the compatibility level of the calculation table, DAX formatting is t
 
 Question: The program throw an exception:" Please install AMO library and make sure the path is correct."
 
-Answer: You need to install AMO library from [here](https://docs.microsoft.com/en-us/analysis-services/client-libraries?view=asallproducts-allversions) and make sure the path is "C:\Windows\Microsoft.NET\assembly\GAC_MSIL".
+*Answer: You need to install AMO library from [here](https://docs.microsoft.com/en-us/analysis-services/client-libraries?view=asallproducts-allversions) and make sure the path is "C:\Windows\Microsoft.NET\assembly\GAC_MSIL".*
 
 Question: Why does the DAX in my PBI report have not changed after I use DAX Beautifier, and I have met all the prerequisites?
 
-Answer: In some cases, the formatted results returned by DAX Beautifier will not be reflected in Power BI Desktop immediately, but at this time the internal formatting of the model has been completed, you can save the report and restart the PBID to check. If the problem persists, please refresh the dataset and try again. In addition, if your formula itself has a grammatical error, it will retain the original format without being beautified.
+*Answer: In some cases, the formatted results returned by DAX Beautifier will not be reflected in Power BI Desktop immediately, but at this time the internal formatting of the model has been completed, you can save the report and restart the PBID to check. If the problem persists, please refresh the dataset and try again. In addition, if your formula itself has a grammatical error, it will retain the original format without being beautified.*
 
 ### Acknowledgment
 
@@ -63,3 +63,11 @@ Sponsored by [PowerBI Quan](http://powerbiquan.com/)
 ![PowerBI Quan](https://img-blog.csdnimg.cn/20200803114617795.jpg)
 
 And friends who helped test the tool before it was released.
+
+### Updated
+
+##### 1.0.1 (2020-8-7)
+
+Users can choose to format only recently modified or created formulas instead of processing all formulas. You only need to enter an integer not less than zero in DAX Beautifier. For example, if you enter 0, it means that the program will formatting all formulas. If you enter 3, it means that the program will only beautify the modified ones (or the formula created) in the past 3 hours. 
+
+![v:1.0.1](https://img-blog.csdnimg.cn/20200809190938949.png)
