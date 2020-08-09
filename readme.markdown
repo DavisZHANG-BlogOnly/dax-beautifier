@@ -66,7 +66,7 @@ And friends who helped test the tool before it was released.
 
 ### Updated
 
-##### 1.0.1 (2020-8-7)
+##### Version:1.0.1 (2020-8-7)
 
 Users can choose to format only recently modified or created formulas instead of processing all formulas. You only need to enter an integer not less than zero in DAX Beautifier. For example, if you enter 0, it means that the program will formatting all formulas. If you enter 3, it means that the program will only beautify the modified ones (or the formula created) in the past 3 hours. 
 
