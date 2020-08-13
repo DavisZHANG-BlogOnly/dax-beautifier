@@ -74,4 +74,4 @@ Users can choose to format only recently modified or created formulas instead of
 
 ##### Version:1.0.2 (2020-8-13)
 
-Modify the icon size of the program
+Modify the icon size of the program.
