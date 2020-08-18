@@ -6,7 +6,7 @@ The program directly interacts with Analysis Services. Based on the test of the 
 
 ### Download and Install
 
-Download: The current version (v1.0.0 beta) and subsequent versions will be released to this Github repositories(or [click here](https://github.com/DavisZHANG-BlogOnly/dax-beautifier/blob/master/dax-beautifier(1.0.0).zip)).
+Download: The current version (v1.0.0 beta) and subsequent versions will be released to this Github repositories(or [click here](https://github.com/DavisZHANG-BlogOnly/dax-beautifier/blob/master/dax-beautifier.zip)).
 
 Install: Just run the .exe, as follow:
 
