@@ -58,7 +58,6 @@ try:
     print("Connect to Analysis Services")     
     try:
         conn = "Provider=MSOLAP;Data Source="+str(sys.argv[1])+";Initial Catalog='';"
-        #conn = "Provider=MSOLAP;Data Source=localhost:63963;Initial Catalog='';"
         AMOServer = AMO.Server()
         AMOServer.Connect(conn)
     except:
