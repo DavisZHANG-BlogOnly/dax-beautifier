@@ -12,7 +12,7 @@ Install: Just run the .exe, as follow:
 
 ![Install](https://img-blog.csdnimg.cn/20200803110303755.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_RC1CSSB8IERhdmlzIG9uIEJJ,size_16,color_FFFFFF,t_70)
 
-
+Besides, you can also install the tool by [BUSINESS OPS](https://powerbi.tips/).
 
 ### Prerequisites
 
