@@ -16,9 +16,7 @@ You can also install the tool by [BUSINESS OPS](https://powerbi.tips/).
 
 ### Prerequisites
 
-1.Please confirm that your version of Power BI Desktop supports external tools (the version number should not be less than: 2.83.5894.661).
-
-![Version](https://img-blog.csdnimg.cn/20200803110918521.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_RC1CSSB8IERhdmlzIG9uIEJJ,size_16,color_FFFFFF,t_70)
+1.Power BI Desktop Version requirement (see [here](#Requirements))
 
 2.Confirm that you have enabled enhanced metadata for PBID：
 
