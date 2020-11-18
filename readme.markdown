@@ -26,7 +26,7 @@ You can also install the tool by [BUSINESS OPS](https://powerbi.tips/).
 
 ![Make sure connected to the data source](https://img-blog.csdnimg.cn/20200803111231330.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_RC1CSSB8IERhdmlzIG9uIEJJ,size_16,color_FFFFFF,t_70)
 
-4.Make sure that the device where your report is located can connect to the Internet. Since the DAX beautification function of the tool needs to rely on the API provided by [daxformatter.com](https://www.daxformatter.com/), if you cannot connect to the Internet or the network is disconnected when the program is running, it may cause the tool to fail.
+4.Make sure that the device where your report is located can connect to the Internet. Since the DAX beautification feature of the tool needs to rely on the API provided by [daxformatter.com](https://www.daxformatter.com/), if you cannot connect to the Internet or the network is disconnected when the program is running, it may cause the tool to fail.
 
 
 ### Demo
