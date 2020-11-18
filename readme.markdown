@@ -64,7 +64,7 @@ Question: Why does the DAX in my PBI report have not changed after I use DAX Bea
 
 ### Acknowledgment
 
-Free API provided by Macro Russo's [DAX FORMATTER](https://www.daxformatter.com/)
+Free API provided by SQLBI's [DAX FORMATTER](https://www.daxformatter.com/)
 
 ![DAX FORMATTER](https://img-blog.csdnimg.cn/20200803114654732.png)
 
