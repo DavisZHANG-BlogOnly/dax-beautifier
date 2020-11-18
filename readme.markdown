@@ -54,13 +54,13 @@ Question: Why does the DAX in my PBI report have not changed after I use DAX Bea
 
 ### Requirements
 
-For standard version of PBID:
+- For standard version of PBID:
 
-- Power BI Desktop (July 2020) or above versions.
+  Power BI Desktop (July 2020) or above versions.
 
-For PBIRS:
+- For PBIRS:
 
-- Power BI Desktop (October 2020) or above versions.
+  Power BI Desktop (October 2020) or above versions.
 
 ### Acknowledgment
 
