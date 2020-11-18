@@ -52,6 +52,16 @@ Question: Why does the DAX in my PBI report have not changed after I use DAX Bea
 
 *Answer: In some cases, the formatted results returned by DAX Beautifier will not be reflected in Power BI Desktop immediately, but at this time the internal formatting of the model has been completed, you can save the report and restart the PBID to check. If the problem persists, please refresh the dataset and try again. In addition, if your formula itself has a grammatical error, it will retain the original format without being beautified.*
 
+### Requirements
+
+For standard version of PBID:
+
+Power BI Desktop (July 2020) or above versions.
+
+For PBIRS:
+
+Power BI Desktop (October 2020) or above versions.
+
 ### Acknowledgment
 
 Free API provided by Macro Russo's [DAX FORMATTER](https://www.daxformatter.com/)
@@ -70,7 +80,7 @@ And friends who helped test the tool before it was released.
 
 This version adds support for Power BI Report Server (PBIRS). 
 
-Since PBIRS does not support external tools(as of November 2020), dax-beautifier.exe can run independently for it. 
+Since PBIRS does not support external tools (as of November 2020), dax-beautifier.exe can run independently for it. 
 
 To quickly format all DAX code, you just need to double-click the program itself or its shortcut.
 
