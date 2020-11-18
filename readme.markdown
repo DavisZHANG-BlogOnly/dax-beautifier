@@ -76,7 +76,7 @@ To quickly format all DAX code, you just need to double-click the program itself
 
 *Note: This mode is only for PBIRS. If you use the standard version of PBID, you still need to run it from the external tools tab*
 
-![v:1.0.3](https://img-blog.csdnimg.cn/20201118100407154.png)
+![v:1.0.3](https://img-blog.csdnimg.cn/20201118101731544.png)
 
 PBIRS Requirements: Power BI Report Server (October 2020) or above versions.
 
