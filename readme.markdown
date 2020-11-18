@@ -1,6 +1,6 @@
 ### About DAX Beautifier
 
-DAX Beautifier is a Power BI Desktop external tool developed by myself (Davis.Z), and it is also the first PBID external tool developed based on the Python language in the global Power BI community. Its function is to enable you to beautify all DAX formulas in the entire PBI file with one click, enhance code readability and greatly improve development efficiency.
+DAX Beautifier is a Power BI Desktop external tool developed by myself (Davis.Z), and it is also the first PBID external tool developed based on the Python language in the global Power BI community. Its function is to enable you to beautify all DAX formulas in your PBIX file with one click, enhance code readability and greatly improve development efficiency.
 
 The program directly interacts with Analysis Services. Based on the test of the current version (v 1.0.0 beta), it perfectly implements the one-click beautification of all DAX formulas (whether it is a calculated table, a calculated column or a measure)!
 
@@ -78,7 +78,7 @@ And friends who helped test the tool before it was released.
 
 ### Updated
 
-##### Version:1.0.3 (2020-11-18)
+##### Version: 1.0.3 (2020-11-18)
 
 This version adds support for Power BI Report Server (PBIRS). 
 
@@ -92,7 +92,7 @@ To quickly format all DAX code, you just need to double-click the program itself
 
 PBIRS Requirements: Power BI Report Server (October 2020) or above versions.
 
-##### Version:1.0.2 (2020-8-13)
+##### Version: 1.0.2 (2020-8-13)
 
 Modify the icon size of the program.
 
@@ -100,7 +100,7 @@ Modify the setup.exe UI.
 
 ![v.1.0.2](https://img-blog.csdnimg.cn/20200817111908273.png)
 
-##### Version:1.0.1 (2020-8-7)
+##### Version: 1.0.1 (2020-8-7)
 
 Users can choose to format only recently modified or created formulas instead of processing all formulas. You only need to enter an integer not less than zero in DAX Beautifier. For example, if you enter 0, it means that the program will formatting all formulas. If you enter 3, it means that the program will only beautify the modified ones (or the formula created) in the past 3 hours. 
 
