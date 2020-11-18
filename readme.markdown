@@ -72,6 +72,10 @@ Sponsored by [PowerBI Quan](http://powerbiquan.com/)
 
 ![PowerBI Quan](https://img-blog.csdnimg.cn/20200803114617795.jpg)
 
+Install available at Business Ops by PowerBI.Tips
+
+![PowerBI Tips](https://powerbi.tips/wp-content/uploads/2020/08/Dark-and-Yellow-Logo.png)
+
 And friends who helped test the tool before it was released.
 
 ### Updated
