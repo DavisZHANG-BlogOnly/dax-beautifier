@@ -66,14 +66,31 @@ And friends who helped test the tool before it was released.
 
 ### Updated
 
-##### Version:1.0.1 (2020-8-7)
+##### Version:1.0.3 (2020-11-18)
 
-Users can choose to format only recently modified or created formulas instead of processing all formulas. You only need to enter an integer not less than zero in DAX Beautifier. For example, if you enter 0, it means that the program will formatting all formulas. If you enter 3, it means that the program will only beautify the modified ones (or the formula created) in the past 3 hours. 
+This version adds support for Power BI Report Server (PBIRS). 
 
-![v:1.0.1](https://img-blog.csdnimg.cn/20200809190938949.png)
+Since PBIRS does not support external tools(as of November 2020), dax-beautifier.exe can run independently for it. 
+
+To quickly format all DAX code, you just need to double-click the program itself or its shortcut.
+
+*Note: This mode is only for PBIRS. If you use the standard version of PBID, you still need to run it from the external tools tab*
+
+![v:1.0.3](https://img-blog.csdnimg.cn/20201118100407154.png)
+
+PBIRS Requirements: Power BI Report Server (October 2020) or above versions.
 
 ##### Version:1.0.2 (2020-8-13)
 
 Modify the icon size of the program.
 
 Modify the setup.exe UI.
+
+##### Version:1.0.1 (2020-8-7)
+
+Users can choose to format only recently modified or created formulas instead of processing all formulas. You only need to enter an integer not less than zero in DAX Beautifier. For example, if you enter 0, it means that the program will formatting all formulas. If you enter 3, it means that the program will only beautify the modified ones (or the formula created) in the past 3 hours. 
+
+![v:1.0.1](https://img-blog.csdnimg.cn/20200809190938949.png)
+
+
+
